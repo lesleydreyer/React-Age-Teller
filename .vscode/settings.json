@@ -1,0 +1,5 @@
+{
+    "html.format.preserveNewLines": false,
+    "editor.wordWrap": "on",
+    "prettier.semi": false
+}
